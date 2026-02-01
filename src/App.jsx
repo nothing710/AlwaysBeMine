@@ -217,15 +217,15 @@ export default function Page() {
       "No",
       "Are you sure?",
       "Really sure?",
-      "RE JAMIL KAI BETI YES KR!",
+      "gandi baat yes kr doh!",
       "Last chance!",
       "PLESE NH MERI RASMALI YES?",
       "You might regret this!",
-      "ANDI MANDI NABU PLES NH !",
+      "pls babu !",
       "Are you absolutely certain?",
       "This could be a mistake!",
       "U Have a heart!💕",
-      "NATURI SMJ BHI AARHA HAI!",
+      "NSMJ nhiI AARHA HAI!",
       "Wouldn't you reconsider?",
       "Is that your final answer?",
       "You're breaking my heart ;(",
@@ -345,7 +345,7 @@ export default function Page() {
               alt="Love Animation"
             />
             <h1 className="text-4xl md:text-6xl my-4 text-center">
-               Will you be mine forever, meri rasmalai meri jaan Sadiya? 😘💞?
+               Will you be mine forever, meri rasmalai ? 😘💞?
             </h1>
             <div className="flex flex-wrap justify-center gap-2 items-center">
               <button
@@ -401,7 +401,7 @@ const Footer = () => {
       <span role="img" aria-label="heart">
         ❤️
       </span>
-      {" "} NOTHING
+      {" "} NOTHING 780583920
     </a>
   );
 };
