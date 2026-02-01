@@ -219,13 +219,13 @@ export default function Page() {
       "Really sure?",
       "gandi baat yes kr doh!",
       "Last chance!",
-      "PLESE NH MERI RASMALI YES?",
+      "PLESE NH MERI  YES?",
       "You might regret this!",
       "pls babu !",
       "Are you absolutely certain?",
       "This could be a mistake!",
       "U Have a heart!💕",
-      "NSMJ nhiI AARHA HAI!",
+      "..............!",
       "Wouldn't you reconsider?",
       "Is that your final answer?",
       "You're breaking my heart ;(",
@@ -239,6 +239,7 @@ export default function Page() {
       "My heart says yes, what about yours? ❤️",
       "Don't leave me hanging! 😬",
       "Plsss? :( You're breaking my heart 💔",
+       "Don't leave me hanging! 😬",
     ];
     
     return phrases[Math.min(noCount, phrases.length - 1)];
@@ -345,7 +346,7 @@ export default function Page() {
               alt="Love Animation"
             />
             <h1 className="text-4xl md:text-6xl my-4 text-center">
-               Will you be mine forever, meri rasmalai ? 😘💞?
+               Will you be mine forever, ? 😘💞?
             </h1>
             <div className="flex flex-wrap justify-center gap-2 items-center">
               <button
