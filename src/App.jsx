@@ -248,7 +248,7 @@ export default function Page() {
      "Sach me no bol rahi ho? 😢",
     "Thoda sa pyaar dikha do na ❤️",
      "Last chance warna main fir se puchunga 😤",
-    "Ab toh YES kar do meri  wife 😘💍"
+    "Ab toh YES kar do meri wife 😘💍",
       "Wouldn't you reconsider?",
       "Is that your final answer?",
       "You're breaking my heart ;(",
