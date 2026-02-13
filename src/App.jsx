@@ -219,13 +219,36 @@ export default function Page() {
       "Really sure?",
       "gandi baat yes kr doh!",
       "Last chance!",
-      "PLESE NH MERI  YES?",
-      "You might regret this!",
-      "pls babu !",
-      "Are you absolutely certain?",
-      "This could be a mistake!",
-      "U Have a heart!💕",
-      "..............!",
+      "Jamil ki beti YES kar 😤",
+      "Oye sun rahi ho na? YES bolo 😡",
+      "Itna attitude kyu dikha rahi ho? 😒",
+      "Gandi baat hai yaar, yes kar do 😤",
+       "Last warning hai 😠",
+      "Aatif ko gussa aa raha hai 😡🔥",
+      "Are you sure? 😳",
+      "Really sure? 🧐",
+      "Think again! 🤔",
+     "This is your final answer? 😶",
+      "You're breaking my heart 💔",
+      "Dil tod diya tumne 😭",
+     "Meri sad life ho jayegi 🥺",
+     "Please yaar maan jao 😔",
+    "I can't take this anymore 😩",
+    "My heart says yes, what about yours? ❤️",
+    "You are my everything 🥹",
+     "I believe in us 💕",
+     "Future Mrs. Aatif sounds nice na? 😌💍",
+     "Bas ek baar soch lo 😭",
+     "Please pretty please 🥺❤️",
+     "Jaan maan jao na 🥹",
+     "Meri rasmalai yes kar do 😋❤️",
+    "Don't leave me hanging 😭",
+     "Aatif ko itna mat tadpao 😩",
+    "Okay fine, main ro dunga ab 😭",
+     "Sach me no bol rahi ho? 😢",
+    "Thoda sa pyaar dikha do na ❤️",
+     "Last chance warna main fir se puchunga 😤",
+    "Ab toh YES kar do meri  wife 😘💍"
       "Wouldn't you reconsider?",
       "Is that your final answer?",
       "You're breaking my heart ;(",
@@ -346,7 +369,9 @@ export default function Page() {
               alt="Love Animation"
             />
             <h1 className="text-4xl md:text-6xl my-4 text-center">
-               Will you be mine forever, ? 😘💞?
+              Sadiya… from the moment you entered my life,  
+              everything became more beautiful.  
+              Will you be mine forever? 💖💍✨, ? 
             </h1>
             <div className="flex flex-wrap justify-center gap-2 items-center">
               <button
@@ -402,7 +427,7 @@ const Footer = () => {
       <span role="img" aria-label="heart">
         ❤️
       </span>
-      {" "} NOTHING 780583920
+      {" "}  Forever Yours, Aatif ❤️
     </a>
   );
 };
